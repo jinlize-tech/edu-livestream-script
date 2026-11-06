@@ -1,0 +1,24 @@
+{
+  "number": 7,
+  "product_id": "JLZ-EDU-SK-007",
+  "chinese_name": "招生直播脚本",
+  "english_name": "Livestream Script",
+  "repository_name": "edu-livestream-script",
+  "product_type": "Skill",
+  "category": "01 招生营销中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-livestream-script-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "直播目标、课程组合、主播角色、时长、优惠规则、常见问题",
+  "main_output": "直播流程表、分段口播、互动问答、课程介绍、成交节点和异常备用话术",
+  "package_entries": [
+    "edu-livestream-script/SKILL.md",
+    "edu-livestream-script/references/DOMAIN_GUIDE.md",
+    "edu-livestream-script/references/EXAMPLES.md",
+    "edu-livestream-script/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
